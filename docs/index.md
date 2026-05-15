@@ -5,10 +5,11 @@ ORBIT is a secure ephemeral cloud compute engine that spins up isolated executio
 
 Run code, install dependencies, open interactive terminals, and automatically destroy environments after TTL.
 
-## Docs
+## Links
 
-- [Architecture](architecture.md)
-
+- 🔗 Repository: https://github.com/prasadf18/Orbit
+- 📄 Architecture: [architecture.md](architecture.md)
+  
 ---
 
 ## Status
